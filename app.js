@@ -1,4 +1,4 @@
-//jshint esversion:6
+//jshint esversion:66
 ////////////////////////////////////setup///////////////////////////////////////
 require('dotenv').config();
 const express = require("express");
